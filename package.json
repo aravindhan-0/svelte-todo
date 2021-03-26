@@ -6,6 +6,9 @@
 		"build": "svelte-kit build",
 		"start": "svelte-kit start"
 	},
+	"Dependencies":{
+		"logrocket": "^1.0.14"
+	},
 	"devDependencies": {
 		"@sveltejs/adapter-vercel": "next",
 		"@sveltejs/kit": "next",
@@ -13,8 +16,7 @@
 		"postcss": "^8.2.8",
 		"svelte": "^3.29.0",
 		"tailwindcss": "^2.0.4",
-		"vite": "^2.1.0",
-		"logrocket": "^1.0.14"
+		"vite": "^2.1.0"
 	},
 	"type": "module",
 	"engines": {
