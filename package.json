@@ -14,7 +14,7 @@
 		"svelte": "^3.29.0",
 		"tailwindcss": "^2.0.4",
 		"vite": "^2.1.0",
-		"logrocket": "^1.0.14",
+		"logrocket": "^1.0.14"
 	},
 	"type": "module",
 	"engines": {
