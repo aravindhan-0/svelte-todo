@@ -6,8 +6,6 @@
 
 <script>
 	import TailwindCss from '$lib/TailwindCSS.svelte';
-	import LogRocket from 'logrocket';
-	LogRocket.init('iuhar5/demo');
 	
 	let tasks = [];
 	let task='';
